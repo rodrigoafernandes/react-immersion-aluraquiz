@@ -1,6 +1,6 @@
 {
     "bg": "https://inmetrics.com.br/wp-content/uploads/2019/09/shutterstock_1354886672.jpg",
-    "gitUrl": "https://github.com/rodrigoafernandes/selenium-website-test.git",
+    "gitUrl": "https://github.com/rodrigoafernandes/react-immersion-aluraquiz",
     "reactImmersion": "Imersão React da Alura V2",
     "title": "Quiz Microserviços/Devops",
     "description": "Teste os seus conhecimentos sobre padrões de Microserviços e suas arquiteturas, além de práticas Devops",
